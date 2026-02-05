@@ -54,26 +54,3 @@ Higher score → More eco-friendly
 ---
 
 ## 📂 Project StructureEco-Friendly-Product-Recommendation-System/
-'''
-Eco-Friendly-Product-Recommendation-System/
-│
-├── data/
-│ └── amazon_eco_friendly_products.csv
-│
-├── notebooks/
-│ ├── data_exploration.ipynb
-│ └── train_model.ipynb
-│
-├── models/
-│ ├── similarity.pkl
-│ └── products.pkl
-│
-├── app/
-│ └── app.py
-│
-├── assets/
-│ └── ui_screenshots/
-│
-├── requirements.txt
-├── README.md
-'''

@@ -31,6 +31,22 @@ The system also calculates an Eco Score (0–10) to rank products based on susta
 
 ---
 
+## 📸 Application Screenshots
+
+### 🏠 Home Interface
+![Home UI](assets/ui_screenshots/home.png)
+
+### 🤖 AI Recommendations
+![Recommendations UI](assets/ui_screenshots/recommendations.png)
+
+### 🔍 Filters & Search
+![Filters UI](assets/ui_screenshots/filters.png)
+
+### 🌱 Eco Score Visualization
+![Eco Score UI](assets/ui_screenshots/eco_score.png)
+
+---
+
 ## 🌱 Eco Score Calculation
 
 Eco score is calculated by:
@@ -116,3 +132,4 @@ Eco-Friendly-Product-Recommendation-System/
 - Streamlit for the web framework
 
 - Scikit-learn for machine learning utilities
+

@@ -54,3 +54,65 @@ Higher score → More eco-friendly
 ---
 
 ## 📂 Project StructureEco-Friendly-Product-Recommendation-System/
+```
+Eco-Friendly-Product-Recommendation-System/
+│
+├── data/
+│ └── amazon_eco_friendly_products.csv
+│
+├── notebooks/
+│ ├── data_exploration.ipynb
+│ └── train_model.ipynb
+│
+├── models/
+│ ├── similarity.pkl
+│ └── products.pkl
+│
+├── app/
+│ └── app.py
+│
+├── assets/
+│ ├── ui_screenshots/
+│ └── eco_score_visual.png
+│
+├── requirements.txt
+└── README.md
+```
+
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Eco-Friendly-Product-Recommendation-System.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd Eco-Friendly-Product-Recommendation-System
+   ```
+3. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Run the Streamlit app:
+   ```
+   streamlit run app/app.py
+   ```
+---
+## 📌 Use Cases
+
+- Sustainable shopping assistants
+- Green product discovery platforms
+- AI-powered e-commerce recommendation systems
+- Environmental awareness applications
+
+---
+## 🙌 Acknowledgements
+
+- Kaggle for the dataset
+
+- Streamlit for the web framework
+
+- Scikit-learn for machine learning utilities
